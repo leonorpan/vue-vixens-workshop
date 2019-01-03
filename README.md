@@ -1,10 +1,14 @@
+# My pet Store with
+
+Implementation of ![VueVixens workshop](https://vuevixens.github.io/docs/)
+
 # test-project
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
